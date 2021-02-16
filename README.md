@@ -1,7 +1,7 @@
 # mynotes
-Java
-Abstract keyword
-- the class declared with abstract keyword cannot be instantiated. The compiler will give an error if an instance of abstract class is created.
-- abstract class can be inherited and the subclass(if not abstract) can be instantiated.
-- the abstract methods of abstract class need to implemented in the subclass(if not abstract).
-- a class with abstract methods has to be declared abstract
+Quick notes for the things that I learn.
+---
+# Contents
+[Java](https://github.com/dev-rm/mynotes/tree/main/Java)
+- [abstract](https://github.com/dev-rm/mynotes/blob/main/Java/abstract%20keyword.md)
+
