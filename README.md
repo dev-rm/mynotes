@@ -1,4 +1,5 @@
 # mynotes
+This is my digital version of notes of things that I learn or already know for quick reference.
 
 ## Contents
 
