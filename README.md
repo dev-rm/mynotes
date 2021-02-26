@@ -11,4 +11,4 @@ This is my digital version of notes of things that I learn or already know for q
   - [the keyword super](https://github.com/dev-rm/mynotes/blob/main/Java/the%20keyword%20super.md)
 
 - [Object Oriented Design](https://github.com/dev-rm/mynotes/tree/main/Object%20Oriented%20Design)
-  - [GRASP](https://github.com/dev-rm/mynotes/blob/main/Object%20Oriented%20Design/GRASP.md)
+  - [GRASP - General Responsibility Assignment Software Patterns](https://github.com/dev-rm/mynotes/blob/main/Object%20Oriented%20Design/GRASP.md)
