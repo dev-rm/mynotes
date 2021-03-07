@@ -12,3 +12,4 @@ This is my digital version of notes of things that I learn or already know for q
 
 - [Object Oriented Design](https://github.com/dev-rm/mynotes/tree/main/Object%20Oriented%20Design)
   - [GRASP - General Responsibility Assignment Software Patterns](https://github.com/dev-rm/mynotes/blob/main/Object%20Oriented%20Design/GRASP.md)
+  - [Fragile Base Class Problem](https://github.com/dev-rm/mynotes/blob/main/Object%20Oriented%20Design/Fragile%20Base%20Class%20Problem.md)
