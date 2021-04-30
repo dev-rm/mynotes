@@ -1,0 +1,4 @@
+# Swagger vs OAS(OpenAPI Specification)
+
+- Swagger is a toolset and structured approach for designing, documenting, generating code for RESTful APIs
+- OAS provides standard format for creating metadata that defines RESTful web services
