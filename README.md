@@ -3,6 +3,9 @@ This is my digital version of notes of things that I learn or already know for q
 
 ## Contents
 
+- [APIs](https://github.com/dev-rm/mynotes/tree/main/APIs)
+  - [Swagger vs OAS](https://github.com/dev-rm/mynotes/blob/main/APIs/Swagger%20vs%20OAS)
+
 - [Accessibility](https://github.com/dev-rm/mynotes/tree/main/Accessibility)
   - [screen readers](https://github.com/dev-rm/mynotes/blob/main/Accessibility/screen%20readers.md)
 
